@@ -36,7 +36,7 @@ The Recipe Ideas Finder is a responsive web application that allows users to sea
 ## Live Application
 
 Deployed Application Link:  
-**Add your Vercel link here after deployment**
+**Vercel link : (https://recipe-ideas-app1.vercel.app/)**
 
 ---
 
