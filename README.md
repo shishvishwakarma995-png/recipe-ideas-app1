@@ -43,7 +43,7 @@ Deployed Application Link:
 ## Source Code
 
 GitHub Repository:  
-https://github.com/shishvishwakarma995-png/recipe-ideas-app
+https://github.com/shishvishwakarma995-png/recipe-ideas-app1
 
 ---
 
